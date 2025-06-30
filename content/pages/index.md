@@ -744,9 +744,15 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Home - Abhidhamma
+  metaDescription: <meta name="algolia-site-verification"  content="3D10DBA135B890F2" />
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: true
+  metaTags:
+    - type: MetaTag
+      content: <meta name="algolia-site-verification"  content="3D10DBA135B890F2" />
+      property: 'og:title'
 type: PageLayout
+isDraft: true
 ---
