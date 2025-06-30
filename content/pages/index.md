@@ -748,5 +748,6 @@ seo:
   metaDescription: <meta name="algolia-site-verification"  content="3D10DBA135B890F2" />
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 ---
