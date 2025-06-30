@@ -754,4 +754,5 @@ seo:
       content: <meta name="algolia-site-verification"  content="3D10DBA135B890F2" />
       property: 'og:title'
 type: PageLayout
+isDraft: true
 ---
