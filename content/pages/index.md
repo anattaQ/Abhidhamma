@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Abhidhamma Pitaka
+      text: Abhidhamma Piṭaka
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
