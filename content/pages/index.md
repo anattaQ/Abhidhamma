@@ -751,5 +751,6 @@ seo:
   addTitleSuffix: true
   metaTags:
     - type: MetaTag
+      content: <meta name="algolia-site-verification"  content="3D10DBA135B890F2" />
 type: PageLayout
 ---
