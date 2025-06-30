@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - Abhidhamma
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: <meta name="algolia-site-verification"  content="3D10DBA135B890F2" />
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
